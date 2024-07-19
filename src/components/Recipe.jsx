@@ -290,7 +290,7 @@ const Recipe = () => {
             </div>
             <div className="note-text text-[#333333a8] text-[0.8rem] m-3.5">Note: Nutritional values are approximate and may vary based on specific ingredients and portion sizes.</div>
           </div>
-          <div className="instructions-card bg-[#ffe2d2] p-5 rounded-lg shadow-md col-span-2">
+          <div className="instructions-card bg-[#ffe2d2] p-3 rounded-lg shadow-md col-span-2">
             <div className="instructions-card-inner mb-4">
               <h2 className="instructions-title text-[#333333] text-4xl font-bold ml-2.5">Instructions</h2>
                <ul className=" text-black recipe-instructions">
